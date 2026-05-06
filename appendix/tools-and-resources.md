@@ -11,18 +11,22 @@
 | [Pump.fun](https://pump.fun) | Solana | 最大的 Meme 币发射台，累计收入 $10 亿+ |
 | [LetsBonk.fun](https://letsbonk.fun) | Solana | BONK 生态发射台，2025 年中一度超越 Pump.fun |
 | [Moonshot](https://moonshot.money) | Solana | DEXScreener 推出的移动端发射台，支持法币购买 |
-| [Four.meme](https://four.meme) | BSC | BSC 链上的主要 Meme 发射台 |
+| [Four.meme](https://four.meme) | BSC | BSC 链上的主要 Meme 发射台，对标 Pump.fun |
+| [Zora](https://zora.co) | Base | 内容币发射台，社交媒体帖子 Token 化 |
+| [Clanker](https://clanker.world) | Base、Arbitrum、BNB | AI Agent 驱动的多链发射台 |
 
 ## 交易平台
 
 | 名称 | 类型 | 说明 |
 |------|------|------|
 | [Axiom](https://axiom.trade) | Web | 市场份额最高（~42%），集成交易+合约+挖矿 |
-| [GMGN](https://gmgn.ai) | Web + TG Bot | Smart Money 追踪 + AI 分析 |
+| [GMGN](https://gmgn.ai) | Web + TG Bot | Smart Money 追踪 + AI 分析，多链支持 |
 | [Photon](https://photon-sol.tinyastro.io) | Web | 早期头部平台 |
 | [BullX](https://bullx.io) | Web | 多链支持 |
 | [Trojan](https://t.me/troaboronkov) | Telegram Bot | Telegram 原生交易机器人 |
 | [BONKbot](https://t.me/bonkbot_bot) | Telegram Bot | BONK 生态交易机器人 |
+| [Maestro](https://maestrobots.com) | Telegram Bot | 以太坊生态的主流交易机器人 |
+| [Banana Gun](https://bananagun.io) | Telegram Bot | 以太坊狙击机器人 |
 
 ## 数据与分析
 
