@@ -175,6 +175,7 @@
 
 这是一个持续更新的项目。
 
+[![Blog](https://img.shields.io/badge/Blog-blog.frankfu.cloud-FF5722?style=flat-square&logo=rss&logoColor=white)](https://blog.frankfu.cloud)
 [![Twitter](https://img.shields.io/badge/𝕏_%40FrankFu2262-000?style=flat-square&logo=x&logoColor=white)](https://x.com/FrankFu2262)
 
 ## 许可证
