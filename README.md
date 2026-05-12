@@ -141,6 +141,10 @@
 | 8.1 | [为什么 Meme 交易在 Solana 上爆发](./articles/8-1-why-solana-won.md) | 低 Gas、高 TPS、生态协同、文化契合 |
 | 8.2 | [Base 链：以太坊 L2 上的 Meme 新战场](./articles/8-2-base-ecosystem.md) | Zora、Clanker、Base 文化、Coinbase 效应 |
 | 8.3 | [BSC 链：Four.meme 与亚洲市场](./articles/8-3-bsc-ecosystem.md) | Four.meme、BNB、亚洲用户特征 |
+| 8.3a | [BSC Meme 交易机制：PancakeSwap、Gas、Mempool 与 MEV](./articles/8-3a-bsc-trading-mechanics.md) | 出块、nonce、聚合器、三明治攻击 |
+| 8.3b | [BSC Meme 的 Honeypot 与合约陷阱](./articles/8-3b-bsc-honeypot-traps.md) | 7 种技术手段、检测工具、防御清单 |
+| 8.3c | [BSC Meme 工具与钱包实战对比](./articles/8-3c-bsc-tools-wallets.md) | GMGN、Maestro、Banana Gun、钱包安全 |
+| 8.3d | [BSC Meme 行情分析：看盘方法与链上信号](./articles/8-3d-bsc-market-analysis.md) | 流动性、持仓、刷量识别、Smart Money |
 | 8.4 | [Ethereum 主网：高 Gas 下的 Meme 交易](./articles/8-4-ethereum-memes.md) | PEPE、DEGEN、Uniswap、MEV |
 | 8.5 | [跨链桥与多链平台：GMGN、BullX 的多链策略](./articles/8-5-multichain-platforms.md) | 跨链架构、资产桥、统一体验 |
 | 8.6 | [各链 Meme 生态对比总表](./articles/8-6-chains-comparison.md) | 全维度对比、选链建议 |
