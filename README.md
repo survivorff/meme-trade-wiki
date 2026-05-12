@@ -145,6 +145,8 @@
 | 8.3b | [BSC Meme 的 Honeypot 与合约陷阱](./articles/8-3b-bsc-honeypot-traps.md) | 7 种技术手段、检测工具、防御清单 |
 | 8.3c | [BSC Meme 工具与钱包实战对比](./articles/8-3c-bsc-tools-wallets.md) | GMGN、Maestro、Banana Gun、钱包安全 |
 | 8.3d | [BSC Meme 行情分析：看盘方法与链上信号](./articles/8-3d-bsc-market-analysis.md) | 流动性、持仓、刷量识别、Smart Money |
+| 8.3e | [EVM DEX 聚合器技术拆解](./articles/8-3e-evm-dex-aggregators.md) | 1inch Pathfinder、0x RFQ、CoW Swap、Fusion |
+| 8.3f | [头部 Meme 平台的技术基建](./articles/8-3f-meme-platform-infrastructure.md) | GMGN/Axiom/BullX 架构、TiDB、RPC、MEV 基建 |
 | 8.4 | [Ethereum 主网：高 Gas 下的 Meme 交易](./articles/8-4-ethereum-memes.md) | PEPE、DEGEN、Uniswap、MEV |
 | 8.5 | [跨链桥与多链平台：GMGN、BullX 的多链策略](./articles/8-5-multichain-platforms.md) | 跨链架构、资产桥、统一体验 |
 | 8.6 | [各链 Meme 生态对比总表](./articles/8-6-chains-comparison.md) | 全维度对比、选链建议 |
