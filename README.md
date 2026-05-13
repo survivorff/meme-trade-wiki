@@ -61,6 +61,7 @@
 | # | 标题 | 关键词 |
 |---|------|--------|
 | 2.1 | [Pump.fun 如何凭空创造了一个十亿美元市场](./articles/2-1-how-pumpfun-created-a-market.md) | bonding curve 创新、市场引爆、生态效应 |
+| 2.1a | [Pump.fun 架构拆解：一个点燃 Meme 产业的 Solana Program](./articles/2-1a-pumpfun-architecture.md) | Program 结构、bonding curve 实现、毕业机制、抗狙击 |
 | 2.2 | [发射台之战：Pump.fun vs LetsBonk vs Moonshot vs 其他](./articles/2-2-launchpad-wars.md) | 发射台对比、机制差异、市场份额 |
 | 2.3 | [交易平台之战：Axiom vs GMGN vs Photon vs BullX](./articles/2-3-platform-wars.md) | 平台对比、功能差异、谁赢了谁死了 |
 | 2.4 | [平台怎么赚钱：手续费、MEV、推荐返佣的商业模式拆解](./articles/2-4-business-models.md) | 收入结构、定价策略、盈利能力 |
@@ -94,6 +95,7 @@
 | 4.5 | [钱包系统设计：托管、非托管与混合方案](./articles/4-5-wallet-system.md) | 密钥管理、签名流程、安全架构 |
 | 4.6 | [跟单系统：从钱包监控到自动执行的全链路](./articles/4-6-copy-trading-system.md) | 钱包追踪、交易解析、执行策略 |
 | 4.7 | [Token 安全评分系统：自动化风险检测](./articles/4-7-token-security-scoring.md) | 合约分析、持仓分布、风险模型 |
+| 4.8 | [链上 Indexer 工程：Meme 平台的真正护城河](./articles/4-8-onchain-indexer-engineering.md) | Yellowstone gRPC、分层存储、reorg 处理、TiDB |
 
 ### 第五章：Solana 链上机制深挖
 
@@ -103,6 +105,7 @@
 |---|------|--------|
 | 5.1 | [Solana 交易机制：Compute Unit、Priority Fee 与 Versioned Transaction](./articles/5-1-solana-tx-mechanics.md) | 交易构建、费用模型、签名机制 |
 | 5.2 | [DEX 全景：Raydium、Jupiter、Pump.fun、PumpSwap、Meteora](./articles/5-2-dex-landscape.md) | AMM 机制、路由、流动性、集成方式 |
+| 5.2a | [Jupiter 聚合器架构拆解：Metis、Ultra 与路由底座](./articles/5-2a-jupiter-architecture.md) | 并行路径评估、Ultra vs Metis、Jito 集成 |
 | 5.3 | [Jito 与 MEV：每笔交易背后的隐形税](./articles/5-3-jito-and-mev.md) | Bundle、Tip、Block Engine、BAM |
 | 5.4 | [RPC 的学问：节点选择如何决定你的交易命运](./articles/5-4-rpc-strategy.md) | 延迟、可靠性、Staked Connection、供应商对比 |
 | 5.5 | [交易为什么失败：Landing Rate 的真相与优化](./articles/5-5-tx-landing-rate.md) | 模拟、重试、拥堵、失败原因分析 |
